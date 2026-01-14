@@ -1,4 +1,4 @@
-# 🔍 Azure Search Python App
+# 🔍 Search IslaData App
 
 Una aplicación moderna de búsqueda semántica en documentos usando Azure Cognitive Search.
 
